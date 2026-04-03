@@ -146,7 +146,7 @@ Assign a unique digit (0–9) to each letter such that the equation holds:
 
 ---
 
-## ▶️ Running the Code
+## Running the Code
 
 **Requirements:** Python 3.x, `matplotlib`
 
