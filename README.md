@@ -1,4 +1,4 @@
-# CSP Assignment — Constraint Satisfaction Problems
+# CSP Assignment
 
 ## Key Concepts
 
@@ -27,6 +27,7 @@ All four problems share a single `solve()` function implementing:
 - **Forward Checking** — after each assignment, prunes invalid values from neighboring variables' domains and backtracks immediately if any domain becomes empty
 
 ---
+# Problems Implemented
 
 ## 1. Australia Map Coloring
 
@@ -112,7 +113,7 @@ Solved Sudoku:
 
 ---
 
-## 4. Cryptarithmetic (SEND + MORE = MONEY)
+## 4. Cryptarithmetic 
 
 **File:** `cryparithmetic.py`
 
