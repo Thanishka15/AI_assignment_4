@@ -38,8 +38,6 @@ Color the 7 states and territories of Australia so that no two adjacent regions 
 **States:** WA, NT, SA, Queensland, NSW, V, T  
 **Colors used:** 4 (Red, Green, Blue, Yellow)
 
-> Tasmania (T) is an island with no land neighbors, so it can take any color freely.
-
 **Sample Output:**
 ```
 State           Color
