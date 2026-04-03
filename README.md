@@ -28,7 +28,7 @@ All four problems share a single `solve()` function implementing:
 
 ---
 
-## Part 1 — Australia Map Coloring
+## 1. Australia Map Coloring
 
 **File:** `australia.py`
 
@@ -56,7 +56,7 @@ State           Color
 
 ---
 
-## Part 2 — Telangana Map Coloring
+## 2. Telangana Map Coloring
 
 **Files:** `telangana.py`, `telangana_map.py`, `telangana_district.geojson`, `telangana_map_output.png`
 
@@ -77,7 +77,7 @@ python telangana_map.py
 
 ---
 
-## Part 3 — Sudoku Puzzle
+## 3. Sudoku Puzzle
 
 **Files:** `sodoku.py`, `sudoku_q.png`, `sudoku_a.png`
 
@@ -112,7 +112,7 @@ Solved Sudoku:
 
 ---
 
-## Part 4 — Cryptarithmetic (SEND + MORE = MONEY)
+## 4. Cryptarithmetic (SEND + MORE = MONEY)
 
 **File:** `cryparithmetic.py`
 
