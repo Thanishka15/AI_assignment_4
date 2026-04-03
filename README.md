@@ -67,7 +67,7 @@ The adjacency graph is based on actual district borders. Running `telangana_map.
 
 **Map Output:**
 
-![Telangana Map](telangana_map_output.png)
+![Telangana Map](telangana-map.png)
 
 **Run the map renderer:**
 ```bash
