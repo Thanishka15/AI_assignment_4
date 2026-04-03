@@ -59,11 +59,9 @@ State           Color
 
 **Files:** `telangana.py`, `telangana_map.py`, `telangana_district.geojson`, `telangana_map_output.png`
 
-Color all **33 districts of Telangana** so that no two bordering districts share the same color.
+All **33 districts of Telangana** are coloured in a way that no two bordering districts share the same color.
 
-**Colors used:** 5 (Red, Green, Blue, Yellow, Orange) — only 4 were needed by the solver.
-
-The adjacency graph is based on actual district borders. Running `telangana_map.py` produces a rendered visual map saved as `telangana_map_output.png`.
+The adjacency graph is based on actual district borders. Running `telangana_map.py` produces a rendered visual map saved as `telangana-map.png`.
 
 **Map Output:**
 
